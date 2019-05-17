@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "540225459879",
+    "firebase_url": "https://health-7f92a.firebaseio.com",
+    "project_id": "health-7f92a",
+    "storage_bucket": "health-7f92a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540225459879:android:e2865a230e349b61",
+        "android_client_info": {
+          "package_name": "com.koddev.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540225459879-nsg38nin8i7nm3qfvmhnvpocbsrene67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.koddev.chatapp",
+            "certificate_hash": "3083ba71ef9fb282945a738ceb182530e819040f"
+          }
+        },
+        {
+          "client_id": "540225459879-o5rjbj7t2n11usc9ik3ie39msik5k8fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfOi-k5j3XwElokUXlP8Wgb038btEevEA"
+        },
+        {
+          "current_key": "AIzaSyCpz0fUz1AHqYPalbsFUpWzXlcYf-rjRjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540225459879-o5rjbj7t2n11usc9ik3ie39msik5k8fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
